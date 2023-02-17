@@ -27,7 +27,7 @@
     #e9d1a1 42.04%,
     #e9d1a1 55.12%,
     #e9d1a1 71.54%,  
-    #8c6931 100%
+    #554c46 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -38,19 +38,19 @@
 .bg-blue-gradient {
   background: linear-gradient(
     157.81deg,
-    #e9d1a1 -43.27%,
-    #e9d1a1 -21.24%,
-    #e9d1a1 12.19%,
-    #e9d1a1 29.82%,
-    #e9d1a1 51.94%,
-    #e9d1a1 90.29%
+    #554c46 -43.27%,
+    #554c46 -21.24%,
+    #554c46 12.19%,
+    #554c46 29.82%,
+    #554c46 51.94%,
+    #554c46 90.29%
   );
 }
 
 .bg-black-gradient {
   background: linear-gradient(
     144.39deg,
-    #8c6931 -278.56%,
+    #554c46 -278.56%,
     #6d6d6d -78.47%,
     #11101d 91.61%
   );
@@ -59,17 +59,17 @@
 .bg-black-gradient-2 {
   background: linear-gradient(
     -168.39deg,
-    #8c6931 -278.56%,
-    #8c6931 -78.47%,
-    #8c6931 91.61%
+    #554c46 -278.56%,
+    #554c46 -78.47%,
+    #554c46 91.61%
   );
 }
 
 .bg-gray-gradient {
   background: linear-gradient(
     153.47deg,
-    #8c6931 -341.94%,
-    #8c6931 95.11%
+    #554c46 -341.94%,
+    #554c46 95.11%
   );
 }
 
@@ -78,7 +78,7 @@
 }
 
 .box-shadow {
-  box-shadow: 0px 20px 100px -10px #e4cb9f;
+  box-shadow: 0px 20px 100px -10px#554c46;
 }
 
 .sidebar {
@@ -126,19 +126,19 @@
 }
 
 .blue__gradient {
-  background: linear-gradient(180deg, #e4cb9f 0%, #e4cb9f 100%);
+  background: linear-gradient(180deg,#554c46 0%,#554c46 100%);
   filter: blur(123px);
 }
 
 .pink__gradient {
   background: linear-gradient(90deg, 
-  #e4cb9f 0%, 
-  #e4cb9f 100%);
+ #554c46 0%, 
+ #554c46 100%);
   filter: blur(900px);
 }
 
 .white__gradient {
   background: 
-  #e4cb9f;
+ #554c46;
   filter: blur(750px);
 }
